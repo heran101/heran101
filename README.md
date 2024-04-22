@@ -1,6 +1,9 @@
-### Hi there 👋
+![Blue Modern Business Promo LinkedIn Banner (1)](https://github.com/heran101/heran101/assets/93593955/fd607e78-6080-44a1-bc2c-0760adbee39e)
 
 <!--
+### Hi there 👋
+- 🔭 I’m Full-stack developer  
+
 **heran101/heran101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
