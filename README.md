@@ -1,4 +1,5 @@
-![Blue Modern Business Promo LinkedIn Banner (1)](https://github.com/heran101/heran101/assets/93593955/fd607e78-6080-44a1-bc2c-0760adbee39e)
+![Blue Modern Business Promo LinkedIn Banner (2)](https://github.com/heran101/heran101/assets/93593955/1286983d-c90c-4979-9f08-d6d5deae7a8d)
+
 
 <!--
 ### Hi there 👋
